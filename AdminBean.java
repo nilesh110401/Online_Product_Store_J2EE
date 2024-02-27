@@ -9,7 +9,7 @@ public class AdminBean implements Serializable
 {
 	private String uName,pWord,fName,lName,addr,mId;
 	private long phNo;
-//	public AdminBean() {}
+	public AdminBean() {}
 	
 	public String getuName() {
 		return uName;
